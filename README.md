@@ -7,6 +7,15 @@
 ```
 Dev. Telegram Channel @FlashBEP20
 
+⚙️ Usage
+
+    Install Python 3.10+
+    Run main.exe
+
+❗ Disclaimers
+
+    For educational purposes only
+
 </div>
 Last updated: Wed Aug 14 05:15:10 UTC 2024
 Last updated: Wed Aug 14 06:21:13 UTC 2024
